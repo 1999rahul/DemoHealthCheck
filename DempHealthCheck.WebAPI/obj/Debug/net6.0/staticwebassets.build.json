@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dg4fA8xgwB22X1unvkPoqmR2FYm19dqkTVth7LAAjOw=",
+  "Source": "DemoHealthCheck.WebAPI",
+  "BasePath": "_content/DemoHealthCheck.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
